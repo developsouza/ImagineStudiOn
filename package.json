@@ -1,0 +1,24 @@
+{
+  "name": "imagineoncurso",
+  "version": "0.0.1",
+  "description": "Homepage for StudiOn Events",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developsouza/ImagineStudiOn.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Gilney Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developsouza/ImagineStudiOn/issues"
+  },
+  "homepage": "https://github.com/developsouza/ImagineStudiOn#readme"
+}
